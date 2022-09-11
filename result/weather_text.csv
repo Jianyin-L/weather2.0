@@ -1,142 +1,135 @@
 City,WeatherText,window,Count
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 22), end=datetime.datetime(2022, 9, 11, 14, 36, 34))",1
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 21), end=datetime.datetime(2022, 9, 11, 14, 36, 33))",1
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 21), end=datetime.datetime(2022, 9, 11, 14, 36, 33))",1
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 20), end=datetime.datetime(2022, 9, 11, 14, 36, 32))",1
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 20), end=datetime.datetime(2022, 9, 11, 14, 36, 32))",1
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 20), end=datetime.datetime(2022, 9, 11, 14, 36, 32))",1
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 19), end=datetime.datetime(2022, 9, 11, 14, 36, 31))",1
-Perth,mostly cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 19), end=datetime.datetime(2022, 9, 11, 14, 36, 31))",1
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 19), end=datetime.datetime(2022, 9, 11, 14, 36, 31))",1
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 18), end=datetime.datetime(2022, 9, 11, 14, 36, 30))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 18), end=datetime.datetime(2022, 9, 11, 14, 36, 30))",1
-Perth,mostly cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 18), end=datetime.datetime(2022, 9, 11, 14, 36, 30))",1
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 17), end=datetime.datetime(2022, 9, 11, 14, 36, 29))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 17), end=datetime.datetime(2022, 9, 11, 14, 36, 29))",2
-Perth,mostly cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 17), end=datetime.datetime(2022, 9, 11, 14, 36, 29))",1
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 16), end=datetime.datetime(2022, 9, 11, 14, 36, 28))",2
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 16), end=datetime.datetime(2022, 9, 11, 14, 36, 28))",2
-Perth,thundershower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 16), end=datetime.datetime(2022, 9, 11, 14, 36, 28))",1
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 15), end=datetime.datetime(2022, 9, 11, 14, 36, 27))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 15), end=datetime.datetime(2022, 9, 11, 14, 36, 27))",2
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 15), end=datetime.datetime(2022, 9, 11, 14, 36, 27))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 14), end=datetime.datetime(2022, 9, 11, 14, 36, 26))",3
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 14), end=datetime.datetime(2022, 9, 11, 14, 36, 26))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 14), end=datetime.datetime(2022, 9, 11, 14, 36, 26))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 13), end=datetime.datetime(2022, 9, 11, 14, 36, 25))",4
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 13), end=datetime.datetime(2022, 9, 11, 14, 36, 25))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 13), end=datetime.datetime(2022, 9, 11, 14, 36, 25))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 12), end=datetime.datetime(2022, 9, 11, 14, 36, 24))",4
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 12), end=datetime.datetime(2022, 9, 11, 14, 36, 24))",2
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 12), end=datetime.datetime(2022, 9, 11, 14, 36, 24))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 11), end=datetime.datetime(2022, 9, 11, 14, 36, 23))",4
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 11), end=datetime.datetime(2022, 9, 11, 14, 36, 23))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 11), end=datetime.datetime(2022, 9, 11, 14, 36, 23))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 10), end=datetime.datetime(2022, 9, 11, 14, 36, 22))",3
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 10), end=datetime.datetime(2022, 9, 11, 14, 36, 22))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 10), end=datetime.datetime(2022, 9, 11, 14, 36, 22))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 9), end=datetime.datetime(2022, 9, 11, 14, 36, 21))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 9), end=datetime.datetime(2022, 9, 11, 14, 36, 21))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 9), end=datetime.datetime(2022, 9, 11, 14, 36, 21))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 8), end=datetime.datetime(2022, 9, 11, 14, 36, 20))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 8), end=datetime.datetime(2022, 9, 11, 14, 36, 20))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 8), end=datetime.datetime(2022, 9, 11, 14, 36, 20))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 7), end=datetime.datetime(2022, 9, 11, 14, 36, 19))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 7), end=datetime.datetime(2022, 9, 11, 14, 36, 19))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 7), end=datetime.datetime(2022, 9, 11, 14, 36, 19))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 6), end=datetime.datetime(2022, 9, 11, 14, 36, 18))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 6), end=datetime.datetime(2022, 9, 11, 14, 36, 18))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 6), end=datetime.datetime(2022, 9, 11, 14, 36, 18))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 5), end=datetime.datetime(2022, 9, 11, 14, 36, 17))",3
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 5), end=datetime.datetime(2022, 9, 11, 14, 36, 17))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 5), end=datetime.datetime(2022, 9, 11, 14, 36, 17))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 4), end=datetime.datetime(2022, 9, 11, 14, 36, 16))",3
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 4), end=datetime.datetime(2022, 9, 11, 14, 36, 16))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 4), end=datetime.datetime(2022, 9, 11, 14, 36, 16))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 3), end=datetime.datetime(2022, 9, 11, 14, 36, 15))",4
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 3), end=datetime.datetime(2022, 9, 11, 14, 36, 15))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 3), end=datetime.datetime(2022, 9, 11, 14, 36, 15))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 2), end=datetime.datetime(2022, 9, 11, 14, 36, 14))",4
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 2), end=datetime.datetime(2022, 9, 11, 14, 36, 14))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 2), end=datetime.datetime(2022, 9, 11, 14, 36, 14))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 1), end=datetime.datetime(2022, 9, 11, 14, 36, 13))",4
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 1), end=datetime.datetime(2022, 9, 11, 14, 36, 13))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36, 1), end=datetime.datetime(2022, 9, 11, 14, 36, 13))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 36), end=datetime.datetime(2022, 9, 11, 14, 36, 12))",3
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 36), end=datetime.datetime(2022, 9, 11, 14, 36, 12))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 36), end=datetime.datetime(2022, 9, 11, 14, 36, 12))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 59), end=datetime.datetime(2022, 9, 11, 14, 36, 11))",3
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 59), end=datetime.datetime(2022, 9, 11, 14, 36, 11))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 59), end=datetime.datetime(2022, 9, 11, 14, 36, 11))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 58), end=datetime.datetime(2022, 9, 11, 14, 36, 10))",3
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 58), end=datetime.datetime(2022, 9, 11, 14, 36, 10))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 58), end=datetime.datetime(2022, 9, 11, 14, 36, 10))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 57), end=datetime.datetime(2022, 9, 11, 14, 36, 9))",4
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 57), end=datetime.datetime(2022, 9, 11, 14, 36, 9))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 57), end=datetime.datetime(2022, 9, 11, 14, 36, 9))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 56), end=datetime.datetime(2022, 9, 11, 14, 36, 8))",4
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 56), end=datetime.datetime(2022, 9, 11, 14, 36, 8))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 56), end=datetime.datetime(2022, 9, 11, 14, 36, 8))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 55), end=datetime.datetime(2022, 9, 11, 14, 36, 7))",4
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 55), end=datetime.datetime(2022, 9, 11, 14, 36, 7))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 55), end=datetime.datetime(2022, 9, 11, 14, 36, 7))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 54), end=datetime.datetime(2022, 9, 11, 14, 36, 6))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 54), end=datetime.datetime(2022, 9, 11, 14, 36, 6))",3
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 54), end=datetime.datetime(2022, 9, 11, 14, 36, 6))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 53), end=datetime.datetime(2022, 9, 11, 14, 36, 5))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 53), end=datetime.datetime(2022, 9, 11, 14, 36, 5))",3
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 53), end=datetime.datetime(2022, 9, 11, 14, 36, 5))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 52), end=datetime.datetime(2022, 9, 11, 14, 36, 4))",3
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 52), end=datetime.datetime(2022, 9, 11, 14, 36, 4))",3
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 52), end=datetime.datetime(2022, 9, 11, 14, 36, 4))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 51), end=datetime.datetime(2022, 9, 11, 14, 36, 3))",4
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 51), end=datetime.datetime(2022, 9, 11, 14, 36, 3))",3
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 51), end=datetime.datetime(2022, 9, 11, 14, 36, 3))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 50), end=datetime.datetime(2022, 9, 11, 14, 36, 2))",5
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 50), end=datetime.datetime(2022, 9, 11, 14, 36, 2))",2
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 50), end=datetime.datetime(2022, 9, 11, 14, 36, 2))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 49), end=datetime.datetime(2022, 9, 11, 14, 36, 1))",5
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 49), end=datetime.datetime(2022, 9, 11, 14, 36, 1))",2
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 49), end=datetime.datetime(2022, 9, 11, 14, 36, 1))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 48), end=datetime.datetime(2022, 9, 11, 14, 36))",4
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 48), end=datetime.datetime(2022, 9, 11, 14, 36))",2
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 48), end=datetime.datetime(2022, 9, 11, 14, 36))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 47), end=datetime.datetime(2022, 9, 11, 14, 35, 59))",3
-Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 47), end=datetime.datetime(2022, 9, 11, 14, 35, 59))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 47), end=datetime.datetime(2022, 9, 11, 14, 35, 59))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 46), end=datetime.datetime(2022, 9, 11, 14, 35, 58))",3
-Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 46), end=datetime.datetime(2022, 9, 11, 14, 35, 58))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 46), end=datetime.datetime(2022, 9, 11, 14, 35, 58))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 45), end=datetime.datetime(2022, 9, 11, 14, 35, 57))",3
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 45), end=datetime.datetime(2022, 9, 11, 14, 35, 57))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 45), end=datetime.datetime(2022, 9, 11, 14, 35, 57))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 44), end=datetime.datetime(2022, 9, 11, 14, 35, 56))",3
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 44), end=datetime.datetime(2022, 9, 11, 14, 35, 56))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 44), end=datetime.datetime(2022, 9, 11, 14, 35, 56))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 43), end=datetime.datetime(2022, 9, 11, 14, 35, 55))",3
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 43), end=datetime.datetime(2022, 9, 11, 14, 35, 55))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 43), end=datetime.datetime(2022, 9, 11, 14, 35, 55))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 42), end=datetime.datetime(2022, 9, 11, 14, 35, 54))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 42), end=datetime.datetime(2022, 9, 11, 14, 35, 54))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 42), end=datetime.datetime(2022, 9, 11, 14, 35, 54))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 41), end=datetime.datetime(2022, 9, 11, 14, 35, 53))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 41), end=datetime.datetime(2022, 9, 11, 14, 35, 53))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 41), end=datetime.datetime(2022, 9, 11, 14, 35, 53))",2
-Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 40), end=datetime.datetime(2022, 9, 11, 14, 35, 52))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 40), end=datetime.datetime(2022, 9, 11, 14, 35, 52))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 40), end=datetime.datetime(2022, 9, 11, 14, 35, 52))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 39), end=datetime.datetime(2022, 9, 11, 14, 35, 51))",2
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 39), end=datetime.datetime(2022, 9, 11, 14, 35, 51))",2
-Perth,rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 39), end=datetime.datetime(2022, 9, 11, 14, 35, 51))",1
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 38), end=datetime.datetime(2022, 9, 11, 14, 35, 50))",2
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 38), end=datetime.datetime(2022, 9, 11, 14, 35, 50))",2
-Perth,rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 38), end=datetime.datetime(2022, 9, 11, 14, 35, 50))",1
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 37), end=datetime.datetime(2022, 9, 11, 14, 35, 49))",2
-Perth,rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 37), end=datetime.datetime(2022, 9, 11, 14, 35, 49))",1
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 37), end=datetime.datetime(2022, 9, 11, 14, 35, 49))",1
-Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 36), end=datetime.datetime(2022, 9, 11, 14, 35, 48))",1
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 36), end=datetime.datetime(2022, 9, 11, 14, 35, 48))",1
-Perth,rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 36), end=datetime.datetime(2022, 9, 11, 14, 35, 48))",1
-Perth,rain,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 35), end=datetime.datetime(2022, 9, 11, 14, 35, 47))",1
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 35), end=datetime.datetime(2022, 9, 11, 14, 35, 47))",1
-Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 14, 35, 34), end=datetime.datetime(2022, 9, 11, 14, 35, 46))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 13), end=datetime.datetime(2022, 9, 11, 19, 9, 25))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 12), end=datetime.datetime(2022, 9, 11, 19, 9, 24))",1
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 12), end=datetime.datetime(2022, 9, 11, 19, 9, 24))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 11), end=datetime.datetime(2022, 9, 11, 19, 9, 23))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 11), end=datetime.datetime(2022, 9, 11, 19, 9, 23))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 10), end=datetime.datetime(2022, 9, 11, 19, 9, 22))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 10), end=datetime.datetime(2022, 9, 11, 19, 9, 22))",1
+Perth,heavy rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 10), end=datetime.datetime(2022, 9, 11, 19, 9, 22))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 9), end=datetime.datetime(2022, 9, 11, 19, 9, 21))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 9), end=datetime.datetime(2022, 9, 11, 19, 9, 21))",1
+Perth,heavy rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 9), end=datetime.datetime(2022, 9, 11, 19, 9, 21))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 8), end=datetime.datetime(2022, 9, 11, 19, 9, 20))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 8), end=datetime.datetime(2022, 9, 11, 19, 9, 20))",2
+Perth,heavy rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 8), end=datetime.datetime(2022, 9, 11, 19, 9, 20))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 7), end=datetime.datetime(2022, 9, 11, 19, 9, 19))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 7), end=datetime.datetime(2022, 9, 11, 19, 9, 19))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 7), end=datetime.datetime(2022, 9, 11, 19, 9, 19))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 6), end=datetime.datetime(2022, 9, 11, 19, 9, 18))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 6), end=datetime.datetime(2022, 9, 11, 19, 9, 18))",2
+Perth,heavy rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 6), end=datetime.datetime(2022, 9, 11, 19, 9, 18))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 5), end=datetime.datetime(2022, 9, 11, 19, 9, 17))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 5), end=datetime.datetime(2022, 9, 11, 19, 9, 17))",2
+Perth,heavy rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 5), end=datetime.datetime(2022, 9, 11, 19, 9, 17))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 4), end=datetime.datetime(2022, 9, 11, 19, 9, 16))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 4), end=datetime.datetime(2022, 9, 11, 19, 9, 16))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 4), end=datetime.datetime(2022, 9, 11, 19, 9, 16))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 3), end=datetime.datetime(2022, 9, 11, 19, 9, 15))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 3), end=datetime.datetime(2022, 9, 11, 19, 9, 15))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 3), end=datetime.datetime(2022, 9, 11, 19, 9, 15))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 2), end=datetime.datetime(2022, 9, 11, 19, 9, 14))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 2), end=datetime.datetime(2022, 9, 11, 19, 9, 14))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 2), end=datetime.datetime(2022, 9, 11, 19, 9, 14))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 1), end=datetime.datetime(2022, 9, 11, 19, 9, 13))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 1), end=datetime.datetime(2022, 9, 11, 19, 9, 13))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 9, 1), end=datetime.datetime(2022, 9, 11, 19, 9, 13))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 9), end=datetime.datetime(2022, 9, 11, 19, 9, 12))",4
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 9), end=datetime.datetime(2022, 9, 11, 19, 9, 12))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 9), end=datetime.datetime(2022, 9, 11, 19, 9, 12))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 59), end=datetime.datetime(2022, 9, 11, 19, 9, 11))",5
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 59), end=datetime.datetime(2022, 9, 11, 19, 9, 11))",2
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 59), end=datetime.datetime(2022, 9, 11, 19, 9, 11))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 58), end=datetime.datetime(2022, 9, 11, 19, 9, 10))",5
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 58), end=datetime.datetime(2022, 9, 11, 19, 9, 10))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 58), end=datetime.datetime(2022, 9, 11, 19, 9, 10))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 57), end=datetime.datetime(2022, 9, 11, 19, 9, 9))",4
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 57), end=datetime.datetime(2022, 9, 11, 19, 9, 9))",2
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 57), end=datetime.datetime(2022, 9, 11, 19, 9, 9))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 56), end=datetime.datetime(2022, 9, 11, 19, 9, 8))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 56), end=datetime.datetime(2022, 9, 11, 19, 9, 8))",2
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 56), end=datetime.datetime(2022, 9, 11, 19, 9, 8))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 55), end=datetime.datetime(2022, 9, 11, 19, 9, 7))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 55), end=datetime.datetime(2022, 9, 11, 19, 9, 7))",2
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 55), end=datetime.datetime(2022, 9, 11, 19, 9, 7))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 54), end=datetime.datetime(2022, 9, 11, 19, 9, 6))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 54), end=datetime.datetime(2022, 9, 11, 19, 9, 6))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 54), end=datetime.datetime(2022, 9, 11, 19, 9, 6))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 53), end=datetime.datetime(2022, 9, 11, 19, 9, 5))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 53), end=datetime.datetime(2022, 9, 11, 19, 9, 5))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 53), end=datetime.datetime(2022, 9, 11, 19, 9, 5))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 52), end=datetime.datetime(2022, 9, 11, 19, 9, 4))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 52), end=datetime.datetime(2022, 9, 11, 19, 9, 4))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 52), end=datetime.datetime(2022, 9, 11, 19, 9, 4))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 51), end=datetime.datetime(2022, 9, 11, 19, 9, 3))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 51), end=datetime.datetime(2022, 9, 11, 19, 9, 3))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 51), end=datetime.datetime(2022, 9, 11, 19, 9, 3))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 50), end=datetime.datetime(2022, 9, 11, 19, 9, 2))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 50), end=datetime.datetime(2022, 9, 11, 19, 9, 2))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 50), end=datetime.datetime(2022, 9, 11, 19, 9, 2))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 49), end=datetime.datetime(2022, 9, 11, 19, 9, 1))",4
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 49), end=datetime.datetime(2022, 9, 11, 19, 9, 1))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 49), end=datetime.datetime(2022, 9, 11, 19, 9, 1))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 48), end=datetime.datetime(2022, 9, 11, 19, 9))",4
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 48), end=datetime.datetime(2022, 9, 11, 19, 9))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 48), end=datetime.datetime(2022, 9, 11, 19, 9))",2
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 47), end=datetime.datetime(2022, 9, 11, 19, 8, 59))",4
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 47), end=datetime.datetime(2022, 9, 11, 19, 8, 59))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 47), end=datetime.datetime(2022, 9, 11, 19, 8, 59))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 46), end=datetime.datetime(2022, 9, 11, 19, 8, 58))",3
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 46), end=datetime.datetime(2022, 9, 11, 19, 8, 58))",3
+Perth,light rain,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 46), end=datetime.datetime(2022, 9, 11, 19, 8, 58))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 45), end=datetime.datetime(2022, 9, 11, 19, 8, 57))",3
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 45), end=datetime.datetime(2022, 9, 11, 19, 8, 57))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 45), end=datetime.datetime(2022, 9, 11, 19, 8, 57))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 44), end=datetime.datetime(2022, 9, 11, 19, 8, 56))",3
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 44), end=datetime.datetime(2022, 9, 11, 19, 8, 56))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 44), end=datetime.datetime(2022, 9, 11, 19, 8, 56))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 43), end=datetime.datetime(2022, 9, 11, 19, 8, 55))",4
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 43), end=datetime.datetime(2022, 9, 11, 19, 8, 55))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 43), end=datetime.datetime(2022, 9, 11, 19, 8, 55))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 42), end=datetime.datetime(2022, 9, 11, 19, 8, 54))",4
+Perth,rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 42), end=datetime.datetime(2022, 9, 11, 19, 8, 54))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 42), end=datetime.datetime(2022, 9, 11, 19, 8, 54))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 41), end=datetime.datetime(2022, 9, 11, 19, 8, 53))",4
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 41), end=datetime.datetime(2022, 9, 11, 19, 8, 53))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 41), end=datetime.datetime(2022, 9, 11, 19, 8, 53))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 40), end=datetime.datetime(2022, 9, 11, 19, 8, 52))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 40), end=datetime.datetime(2022, 9, 11, 19, 8, 52))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 40), end=datetime.datetime(2022, 9, 11, 19, 8, 52))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 39), end=datetime.datetime(2022, 9, 11, 19, 8, 51))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 39), end=datetime.datetime(2022, 9, 11, 19, 8, 51))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 39), end=datetime.datetime(2022, 9, 11, 19, 8, 51))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 38), end=datetime.datetime(2022, 9, 11, 19, 8, 50))",3
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 38), end=datetime.datetime(2022, 9, 11, 19, 8, 50))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 38), end=datetime.datetime(2022, 9, 11, 19, 8, 50))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 37), end=datetime.datetime(2022, 9, 11, 19, 8, 49))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 37), end=datetime.datetime(2022, 9, 11, 19, 8, 49))",3
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 37), end=datetime.datetime(2022, 9, 11, 19, 8, 49))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 36), end=datetime.datetime(2022, 9, 11, 19, 8, 48))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 36), end=datetime.datetime(2022, 9, 11, 19, 8, 48))",2
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 36), end=datetime.datetime(2022, 9, 11, 19, 8, 48))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 35), end=datetime.datetime(2022, 9, 11, 19, 8, 47))",3
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 35), end=datetime.datetime(2022, 9, 11, 19, 8, 47))",2
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 35), end=datetime.datetime(2022, 9, 11, 19, 8, 47))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 34), end=datetime.datetime(2022, 9, 11, 19, 8, 46))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 34), end=datetime.datetime(2022, 9, 11, 19, 8, 46))",2
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 34), end=datetime.datetime(2022, 9, 11, 19, 8, 46))",2
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 33), end=datetime.datetime(2022, 9, 11, 19, 8, 45))",2
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 33), end=datetime.datetime(2022, 9, 11, 19, 8, 45))",2
+Perth,mostly cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 33), end=datetime.datetime(2022, 9, 11, 19, 8, 45))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 32), end=datetime.datetime(2022, 9, 11, 19, 8, 44))",2
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 32), end=datetime.datetime(2022, 9, 11, 19, 8, 44))",1
+Perth,thundershower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 32), end=datetime.datetime(2022, 9, 11, 19, 8, 44))",1
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 31), end=datetime.datetime(2022, 9, 11, 19, 8, 43))",1
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 31), end=datetime.datetime(2022, 9, 11, 19, 8, 43))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 31), end=datetime.datetime(2022, 9, 11, 19, 8, 43))",1
+Perth,partly sunny,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 30), end=datetime.datetime(2022, 9, 11, 19, 8, 42))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 30), end=datetime.datetime(2022, 9, 11, 19, 8, 42))",1
+Perth,thundershower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 30), end=datetime.datetime(2022, 9, 11, 19, 8, 42))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 29), end=datetime.datetime(2022, 9, 11, 19, 8, 41))",1
+Perth,light rain shower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 29), end=datetime.datetime(2022, 9, 11, 19, 8, 41))",1
+Perth,thundershower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 29), end=datetime.datetime(2022, 9, 11, 19, 8, 41))",1
+Perth,thundershower,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 28), end=datetime.datetime(2022, 9, 11, 19, 8, 40))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 28), end=datetime.datetime(2022, 9, 11, 19, 8, 40))",1
+Perth,cloudy,"Row(start=datetime.datetime(2022, 9, 11, 19, 8, 27), end=datetime.datetime(2022, 9, 11, 19, 8, 39))",1
