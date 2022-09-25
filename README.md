@@ -12,9 +12,9 @@ b. the *top three most common* "weather text" for each city
 This project contains two aparts: *producer* and *consumer*.  
 
 ### Producer
-*Producer* will produce a unbounded data stream to mimic the real life situation.   
-To do so, 0.json will be loop through infinitely as an example.  
-It will publish a meesage in a fixed time interval.  
+* *Producer* will produce a unbounded data stream to mimic the real life situation.   
+* To do so, 0.json will be loop through infinitely as an example.  
+* It will publish a meesage in a fixed time interval.  
 
 ### Consumer
 *Consumer* will consumer the unbounded data stream into two forms.
@@ -25,9 +25,9 @@ It will publish a meesage in a fixed time interval.
 2. The consumer_analysis will consume the messages and output two csvs accordingly.  
 
 ## Setting up Kafka
-Java 7 or greater is required in your machine in order to set up Kafka.   
-Install Kafka by downloading binaries.  
-Learn more [here](https://kafka.apache.org/quickstart).
+* Java 7 or greater is required in your machine in order to set up Kafka.   
+* Install Kafka by downloading binaries.  
+* Learn more [here](https://kafka.apache.org/quickstart).
 
 ## Start Apache Kafka Service:
 
